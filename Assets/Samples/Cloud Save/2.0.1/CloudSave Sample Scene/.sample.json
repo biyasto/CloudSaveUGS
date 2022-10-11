@@ -1,0 +1,5 @@
+{
+	"displayName":"Cloud Save Sample",
+	"description": "A basic UGUI control panel that lets you save and load data, with commented backing code that demonstrates and explains how to use it.",
+	"createSeparatePackage": false
+}
